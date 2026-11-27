@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+
+# Build output
+dist/
+build/
+dist-ssr/
+
+# Temporary and local files
+*.local
+*.tmp
+*.temp
+*.log
+logs/
